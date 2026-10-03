@@ -4,6 +4,9 @@
 ! public: true
 ! author: Jozef Van Giel
 
+
+$discard
+
 $boost=3,site=badufos.blogspot.com
 $boost=3,site=factcheck.org
 $boost=3,site=hoaxes.org
