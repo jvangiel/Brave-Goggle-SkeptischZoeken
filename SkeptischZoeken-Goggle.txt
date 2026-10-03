@@ -10,18 +10,15 @@ $boost=3,site=hoaxes.org
 $boost=3,site=monstertalk.skeptic.com
 $boost=3,site=nederlands.skepdic.com
 $boost=3,site=neven1.typepad.com
-$boost=3,site=pangolia.com/blog
 $boost=3,site=rationalwiki.org
 $boost=3,site=realclimate.org
 $boost=3,site=richarddawkins.net
 $boost=3,site=risk-monger.com
-$boost=3,site=scienceblogs.com/pharyngula
 $boost=3,site=simonsingh.net
 $boost=3,site=skepdic.com
 $boost=3,site=skepdigest.awardspace.us
 $boost=3,site=skepticblog.org
 $boost=3,site=skeptoid.com
-$boost=3,site=steeman.dk/daaromevolutie-net
 $boost=3,site=summaries.cochrane.org
 $boost=3,site=www.acsh.org
 $boost=3,site=www.arnovanthoog.nl
@@ -38,7 +35,6 @@ $boost=3,site=www.cicap.org
 $boost=3,site=www.cnyskeptics.org
 $boost=3,site=www.comitepara.be
 $boost=3,site=www.csicop.org
-$boost=3,site=www.csicop.org/si/archive
 $boost=3,site=www.dcscience.net
 $boost=3,site=www.deatheist.nl
 $boost=3,site=www.ebmpracticenet.be
@@ -99,5 +95,4 @@ $boost=3,site=www.talkorigins.org
 $boost=3,site=www.tampabayskeptics.org
 $boost=3,site=www.theness.com
 $boost=3,site=www.theskepticsguide.org
-$boost=3,site=www.vof.se/index.php
 $boost=3,site=www.zetetique.fr
